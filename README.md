@@ -70,3 +70,6 @@ Herbert William Solano Vásquez SV202844-Programación, diseño, lógica y manua
 
 Enlaces de interés 👀
 Figma/Vistas: https://www.figma.com/design/R8KdSMrjvhVToJmiCYfpxU/Sin-t%C3%ADtulo?node-id=0-1&t=W41Sa13WCa57bj5R-1
+
+Trelli: 
+https://trello.com/b/ZaXSD90d/dps-01/table
