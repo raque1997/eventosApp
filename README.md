@@ -73,3 +73,6 @@ Figma/Vistas: https://www.figma.com/design/R8KdSMrjvhVToJmiCYfpxU/Sin-t%C3%ADtul
 
 Trello: 
 https://trello.com/b/ZaXSD90d/dps-01
+
+Manual de usuario:
+https://docs.google.com/document/d/1xY0V-yorTHAq9FR6mTsWknTb8Fak5mQfBc1y_uVO8wI/edit?usp=sharing
